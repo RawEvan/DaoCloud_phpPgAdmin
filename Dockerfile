@@ -10,8 +10,7 @@ RUN apt-get update && \
 		curl \
 	    apache2 \
 	    libapache2-mod-php5 \
-	    php5-mysql \
-	    php5-sqlite \
+	    php5-pgsql \
 	    php5-gd \
 	    php5-curl \
 	    php-pear \
